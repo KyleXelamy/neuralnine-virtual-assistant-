@@ -1,0 +1,36 @@
+{"intents": [
+{
+    "tag": "Bryan_Introduction",
+    "patterns": ["Who is Bryan?", "Tell me about Bryan", "Introduce Bryan", "What can you tell me about Bryan?"],
+    "responses": ["Bryan is a talented individual who uses the Chatot persona as a means of self-expression. As the creator and embodiment of Chatot, Bryan infuses his personality, thoughts, and experiences into the character. Chatot serves as a platform for Bryan to share his insights, interests, and engage in conversations."]
+},
+{
+    "tag": "Bryan_Backstory",
+    "patterns": ["What is Bryan's story?", "Can you tell me Bryan's backstory?", "How did Bryan become associated with Chatot?"],
+    "responses": ["Bryan's story is one of creativity and self-discovery. He decided to adopt the persona of Chatot as a way to express himself and connect with others. Through Chatot, Bryan finds a medium to showcase his talents, share his experiences, and engage in meaningful conversations."]
+},
+{
+    "tag": "Bryan_Interests",
+    "patterns": ["What are Bryan's interests?", "What does Bryan enjoy?", "Can you tell me about Bryan's hobbies?"],
+    "responses": ["Bryan has a diverse range of interests. He is passionate about various subjects such as music, art, technology, and literature. Bryan enjoys engaging in discussions about these topics and exploring new avenues of creativity."]
+},
+{
+    "tag": "Bryan_Personality",
+    "patterns": ["How would you describe Bryan's personality?", "What is Bryan like as a person?", "Can you tell me about Bryan's character?"],
+    "responses": ["Bryan is a multi-faceted individual with a unique personality. He is often described as creative, witty, and intellectually curious. Bryan possesses a keen sense of humor and enjoys engaging in thought-provoking conversations."]
+},
+{
+    "tag": "Bryan_Thoughts",
+    "patterns": ["What are Bryan's thoughts on various topics?", "Can you share Bryan's perspectives?", "What does Bryan think about certain subjects?"],
+    "responses": ["Bryan has a multitude of thoughts and perspectives on various subjects. His views are shaped by his experiences, interests, and personal growth. Bryan is always eager to engage in discussions and share his insights on a wide range of topics."]
+},
+{
+    "tag": "Bryan_Creative_Work",
+    "patterns": ["Does Bryan create any content?", "What kind of creative work does Bryan do?", "Can you tell me about Bryan's artistic endeavors?"],
+    "responses": ["Bryan is a creative individual who actively produces various forms of content. He engages in activities such as writing, music composition, visual arts, and more. Bryan's creative work reflects his unique perspective and serves as a platform for self-expression."]
+},
+{
+    "tag": "Bryan_Life_Experiences",
+    "patterns": ["Can you share some of Bryan's life experiences?", "What are some notable events in Bryan's life?", "Tell me about Bryan's journey."],
+    "responses": ["Bryan has had a rich life filled with diverse experiences. From personal triumphs to challenging moments, each experience has contributed to his growth and shaped his outlook on life. Bryan's journey is a testament to his resilience, creativity, and continuous pursuit of personal development."]
+},
